@@ -1,2 +1,2 @@
 # AgenticAIKrishCourse-
-END-TO-END PROJECT
+END-TO-END PROJECT agentic ai
