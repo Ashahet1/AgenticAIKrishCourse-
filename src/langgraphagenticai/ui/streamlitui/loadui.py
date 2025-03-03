@@ -50,7 +50,7 @@ class LoadStreamlitUI:
                                                                                                       type="password")
                 # Validate API key
                 if not self.user_controls["GROQ_API_KEY"]:
-                    st.warning("⚠️ Please enter your GROQ API key to proceed. Don't have? refer : https://console.groq.com/keys ")
+                    st.warning("Please enter your GROQ API KEY ")
                    
             
             # Use case selection
