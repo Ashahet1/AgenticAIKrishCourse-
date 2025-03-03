@@ -1,20 +1,10 @@
 # AgenticAIKrishCourse-
 
 Introduction to AI Agents and Agent Use Cases
-Welcome to the "AI Agents for Beginners" course! This course gives you fundamental knowledge and applied samples for building with AI Agents.
-
-Join the Azure AI Discord Community to meet other learners, and AI Agent Builders and ask any questions you have on this course.
-
-To start this course, we begin by getting a better understanding of what AI Agents are and how we can use them in the applications and workflows we build.
-
-Introduction
-This lesson covers:
 
 What are AI Agents and what are the different types of agents?
 What use cases are best for AI Agents and how can they help us?
 What are some of the basic building blocks when designing Agentic Solutions?
-Learning Goals
-After completing this lesson, you should be able to:
 
 Understand AI Agent concepts and how they differ from other AI solutions.
 Apply AI Agents most efficiently.
